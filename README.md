@@ -34,6 +34,8 @@ tasks, such as state estimation from sparse sensor readings, and network rehabil
 
 TODO
 
+3. Case Study [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WaterFutures/PhysicsinformedAI-SurrogateModeling-CCWI26/blob/main/case_study/case_study.ipynb)
+
 ### How to cite
 
 If you are using / referring to these materials in your own work, please cite 
