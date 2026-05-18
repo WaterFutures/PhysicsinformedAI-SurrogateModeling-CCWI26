@@ -32,8 +32,8 @@ tasks, such as state estimation from sparse sensor readings, and network rehabil
 
 ### Hands-On Sessions
 
-TODO
-
+1. Physics-Informed Neural Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WaterFutures/PhysicsinformedAI-SurrogateModeling-CCWI26/blob/main/PINNs/1.+PINN%3A+Water+Quality.ipynb)
+2. Physics-Informed Neural Networks for Inverse Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WaterFutures/PhysicsinformedAI-SurrogateModeling-CCWI26/blob/main/PINNs/2.+PINN%3A+Inverse+Problem.ipynb)
 3. Case Study [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WaterFutures/PhysicsinformedAI-SurrogateModeling-CCWI26/blob/main/case_study/case_study.ipynb)
 
 ### How to cite
